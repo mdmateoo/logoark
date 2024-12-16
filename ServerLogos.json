@@ -1,0 +1,10 @@
+{
+  "Images": [
+    {
+      "URL": "https://i.postimg.cc/c1Mpxyvc/Logo.png",
+      "POS": "BotttomLeft",
+      "Persist": true,
+      "FadeTime": 5
+    }
+    ]
+}
